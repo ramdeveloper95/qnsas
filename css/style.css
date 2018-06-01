@@ -279,7 +279,7 @@ padding:0;
 	text-transform:uppercase;
 }
 .logo {
-	padding-top: 29px
+	padding-top: 35px
 }
 /*
 ================================================
@@ -1085,6 +1085,7 @@ div.team-cnt div {
 #next {
     right: 18px !important;
 	}	
+
 }
 
 @media (max-width: 767px) {
@@ -1116,7 +1117,7 @@ section h2 {
   color:#333;
 }
 .menu-bg .logo {
-  padding: 18px 0 10px;
+  padding: 35px 0 10px;
 }
 header .navbar-nav {
   margin: 7.5px 0;
@@ -1194,6 +1195,10 @@ div.team-cnt > div > div {
 #next{
     right: 176px !important;
     top: auto !important;
+}
+#clients .clients-wrap {
+    margin-right: 20px !important;
+    margin-left: 20px !important;
 }
 }
 .white {
