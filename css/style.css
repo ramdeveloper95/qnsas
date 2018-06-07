@@ -656,6 +656,7 @@ text-align:center;
 */
 .aboutus-2{
 padding:40px 0px;
+background: #f9f9f9;
 }
 .aboutus-2 h1{
 line-height: 40px;
@@ -750,6 +751,7 @@ img.img-service {
 	float: left;
 	width: 100%;
 	padding: 70px 0 50px;
+	background: #f9f9f9;
 }
 .portfolio-filter {
 	text-align: center;
@@ -957,7 +959,7 @@ padding:60px 0px;
     color: #f2332f;
 }
 .contactus {
-    background: #f9f9f9;
+   /*background: #f9f9f9;*/
 }
 .outer-box {
     width: 85%;
