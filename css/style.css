@@ -757,7 +757,7 @@ img.img-service {
 	margin-bottom:20px;
 }
 .portfolio-filter li.active, .portfolio-filter li:hover{
-	color:#cc2128;
+	color:#000000;
 	-webkit-transition: all .3s ease 0s;
     -moz-transition: all 0.3s ease 0s;
     -o-transition: all 0.3s ease 0s;
@@ -772,6 +772,7 @@ img.img-service {
 	margin: 0 5px 10px;
 	cursor: pointer;
 	position: relative;	
+	color: white;
 }
 .portfolio-filter li:after {
 	position: absolute;
@@ -902,6 +903,8 @@ img.img-service {
 
 .portfolio-filter {
     margin-bottom: 10px;
+    background: #cc2128;
+    padding: 5px 0px 0px 0px;
 }
 
 .portfolio-filter a {
@@ -1223,4 +1226,3 @@ div.team-cnt > div > div {
 	display: none;
 }
 }
-
